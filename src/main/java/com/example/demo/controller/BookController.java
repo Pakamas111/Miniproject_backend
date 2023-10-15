@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.model.Admin;
 import com.example.demo.model.Book;
 import com.example.demo.model.Course;
 import com.example.demo.model.Trainer;
